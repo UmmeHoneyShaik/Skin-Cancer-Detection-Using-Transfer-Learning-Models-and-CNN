@@ -1,0 +1,4 @@
+model,accurary
+CNN,0.983717799
+ResNet,0.402985066
+Xception,0.504749
